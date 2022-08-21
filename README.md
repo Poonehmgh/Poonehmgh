@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Poonehmgh
-- 👀 interested in the universe and looking to find a hitchhiker's guide to the galaxy.  
-- 🌱 currently learning programming via C. 
-- 💞️ looking to deepen my knowledge on coding. 
+- I’m @Poonehmgh, currently studying software engineering at 42. 
+I love nature, freedom, friendship, family, philosophy and philantrophy. 
 - 📫 p.moghadda30@gmail.com
 
 <!---
